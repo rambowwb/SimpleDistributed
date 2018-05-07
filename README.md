@@ -1,0 +1,2 @@
+# SimpleDistributed
+基于RabbitMQ的简单分布式程序实现
